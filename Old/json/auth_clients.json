@@ -1,0 +1,30 @@
+{
+    "210668": {
+        "client_id": "210668",
+        "client_name": "Test Client",
+        "client_description": "This is a test client.",
+        "client_auth_key": "awekfiugqp34gnowlyidheg9srlcgphleshp48",
+        "is_DJ": false
+    },
+    "62b9665ac344e56c9c0320d4": {
+        "client_id": "62b9665ac344e56c9c0320d4",
+        "client_name": "1LoVVe",
+        "client_description": "Owner",
+        "client_auth_key": "ftuyg7r6jofuhiujdnijio2fbue238d92djdwf",
+        "is_DJ": true
+    },
+    "6111e1fb22dcb50edf32e4a8": {
+        "client_id": "6111e1fb22dcb50edf32e4a8",
+        "client_name": "ItsVini",
+        "client_description": "Tester",
+        "client_auth_key": "cweo8xqdi4crnho348gfbawe8lhmifudbwx43ke",
+        "is_DJ": false
+    },
+    "65ec36fbd8895d7b70856e01": {
+        "client_id": "65ec36fbd8895d7b70856e01",
+        "client_name": "Shinigami_souls",
+        "client_description": "Tester",
+        "client_auth_key": "xiwefangsker8kilamwasdhogweslmg5irhlse",
+        "is_DJ": false
+    }
+}
